@@ -1,1 +1,3 @@
-# code-demo
+# code-demo 
+This is my first Git Repository.
+Author - Gourav Banik
