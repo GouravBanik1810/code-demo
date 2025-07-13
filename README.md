@@ -1,4 +1,4 @@
 # code-demo 
 This is my first Git Repository.
 <br>
-Author - Gourav Banik
+Author - Gourav (GB)
